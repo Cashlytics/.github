@@ -1,12 +1,24 @@
-## Hi there 👋
+# Cashlytics
 
-<!--
+**Platform pencatatan keuangan digital terintegrasi**
 
-**Here are some ideas to get you started:**
+Cashlytics membantu individu dan bisnis mencatat transaksi secara konsisten melalui antarmuka chat yang familiar. Dengan integrasi WhatsApp dan dukungan AI, proses pencatatan menjadi lebih cepat, terstruktur, dan siap dianalisis kapan saja.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Kapabilitas Utama
+
+- Pencatatan transaksi real-time langsung melalui WhatsApp
+- Kategorisasi pemasukan dan pengeluaran dengan dukungan AI
+- Dashboard analitik keuangan untuk memantau arus kas secara real-time
+- Ekspor laporan keuangan ke format PDF dan Excel
+- Akses API untuk kebutuhan integrasi pada skala bisnis
+
+## Untuk Siapa
+
+- Individu yang ingin pencatatan keuangan harian yang praktis
+- UMKM dan freelancer yang membutuhkan pembukuan sederhana namun akurat
+- Tim bisnis yang memerlukan visibilitas keuangan yang konsisten
+
+## Tautan Penting
+
+- Website: [cash.ribhy.com](https://cash.ribhy.com/)
+- Login: [cash.ribhy.com/login](https://cash.ribhy.com/login)
